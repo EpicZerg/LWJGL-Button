@@ -1,4 +1,8 @@
 LWJGL-Button
 ============
 
-A class for Easy Usage of a basic Button
+Usage:
+Create a new Button with the Following Syntax:
+>Button name = new Button(topLeftX, topLeftY, Width, Height, Text);
+
+*Text is not working as of this Moment!
