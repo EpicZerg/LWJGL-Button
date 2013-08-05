@@ -7,13 +7,13 @@ Create a new Button with the Following Syntax:
 
 And to draw it you just add:
 
-`while(!Display.isCloseRequested){
+`while(!Display.isCloseRequested){`
 
 name.draw();
 
 ...
 
-}`
+}
 
 To see if its clicked just use this:
 
