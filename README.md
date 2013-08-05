@@ -2,10 +2,10 @@ LWJGL-Button
 ============
 
 Usage:
-Create a new Button with the Following Syntax:
+Create a new Button with the Following Syntax:  
 `Button name = new Button(topLeftX, topLeftY, Width, Height, Text);`
 
-And to draw it you just add:
+And to draw it you just add:  
 
 `while(!Display.isCloseRequested){`
 
@@ -15,9 +15,9 @@ And to draw it you just add:
 
 `}`
 
-To see if its clicked just use this:
+To see if its clicked just use this:  
 
 `if(name.isClicked()){...}`
 
 
-*Text is not working as of this Moment!
+*Text is not working as of this Moment!  
