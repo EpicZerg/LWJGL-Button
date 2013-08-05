@@ -15,4 +15,9 @@ And to draw it you just add:
 
 >}
 
+To see if its clicked just use this:
+
+>if(name.isClicked()){...}
+
+
 *Text is not working as of this Moment!
